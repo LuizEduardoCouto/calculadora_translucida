@@ -59,9 +59,10 @@ body::after{
     padding: 10px;
     font-size: 30px;
     background: transparent;
-    color: #fff;
+    color: #ffb56b;
     border-bottom: 1px solid rgba(255,255,255, 0.05);
     border-right: 1px solid rgba(255,255,255, 0.05);
+    transition: 0.5s;
 }
 .container .calculadora span{
     display: grid;
